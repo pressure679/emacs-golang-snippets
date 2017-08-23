@@ -1,0 +1,1 @@
+# emacs-golang-snippets
